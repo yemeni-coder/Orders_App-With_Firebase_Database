@@ -54,7 +54,7 @@ List<IconData> icons = const [
 List<String> urls = const [
   'https://www.instagram.com/17.insta/',
   'https://github.com/yemeni-coder',
-  'https://github.com/yemeni-coder',
+  'https://www.linkedin.com/home',
 ];
 
 class BuildIcon extends StatelessWidget {
